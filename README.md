@@ -3,5 +3,4 @@ A simple CRUD API developed with deno.
 
 ```
 deno run --allow-net server.ts
-
 ```
